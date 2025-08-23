@@ -20,6 +20,12 @@ _**File Format -**_ .pbix for development and .jpeg for dashboard previews.
 
 Data was manually collected from the various online class materials.
 
+> **How to use**
+
+_Download the .pbit file._
+
+_Open it in Power BI Desktop._
+
 > **Features & Highlights**
 
 _Listing best performing 5 salesman_
