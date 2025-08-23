@@ -36,5 +36,5 @@ _Sales Comparison_
 
 _Top 5 best selling Product_
 
-DryFruits_Dashboard_.JPG
+[DryFruits_Dashboard_.JPG](https://github.com/sangeetagsGit/PowerBI-Projects/blob/main/DryFruits_Dashboard_.JPG)
 
