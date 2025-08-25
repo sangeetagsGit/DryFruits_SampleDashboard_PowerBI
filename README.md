@@ -10,7 +10,7 @@ _**Power BI Desktop -**_ Main data visualization platform used for report creati
 
 _**Power Query -**_ Data transformation and cleaning layer for reshaping and preparing the data.
 
-_**DAX (Data Analysis Expressions -**_ Used for calculated columns
+_**DAX (Data Analysis Expressions) -**_ Used for calculated columns
 
 _**Data Modelling -**_ Relationships established among tables - EmployeeData, Locations, Sales
 
