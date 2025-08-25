@@ -24,7 +24,7 @@ Data was manually collected from the various online class materials.
 
 _Download the .pbit file._
 
-_Open it in Power BI Desktop._
+_Open it in Power BI application._
 
 > **Features & Highlights**
 
